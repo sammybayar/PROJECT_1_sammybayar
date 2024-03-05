@@ -1,6 +1,7 @@
 .image-with-spacing {
-    width:100px;
-    height:100px;
+    width:50%;
+    max-width:100%;
+    height:auto;
     margin-right: 10px; /* Adjust the value to set the desired spacing */
 }
 
