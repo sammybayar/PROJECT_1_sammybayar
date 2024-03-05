@@ -5,6 +5,16 @@
     margin-right: 10px; /* Adjust the value to set the desired spacing */
 }
 
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+grid-item {
+    width: 100%;
+    height: auto;
+}
 
 
 
